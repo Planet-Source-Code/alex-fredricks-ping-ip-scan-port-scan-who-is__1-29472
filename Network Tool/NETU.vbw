@@ -1,0 +1,8 @@
+frmMain = 0, 0, 0, 0, C, 22, 22, 582, 468, Z
+modCpuName = 0, 0, 0, 0, C
+modPing = 0, 0, 0, 0, C
+modUserName = 0, 0, 0, 0, C
+modWinVersion = 0, 0, 0, 0, C
+modEthernetAddress = 0, 0, 0, 0, C
+modFocus = 0, 0, 0, 0, C
+ModKeyCheck = 0, 0, 0, 0, C
